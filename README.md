@@ -2,7 +2,7 @@
 Portfolio listing and describing skills and experiences related to Information Technology, Web Development, Business Analysis, and Database functions.
 
 Section I: Cover Letter & Resume
-  - Description- This Cover Letter and Resume are directed to addressing the requirements and role essentials listed in the attached requisite from the employer, titled "TechConsultant_Requisite".
+  - Description: This Cover Letter and Resume are directed to addressing the requirements and role essentials listed in the attached requisite from the employer, titled "TechConsultant_Requisite".
 
 Section II: Business & Systems Analysis
   - Cases:
