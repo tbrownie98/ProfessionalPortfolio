@@ -10,7 +10,7 @@ Section II: Business & Systems Analysis
 Section III: Database Design & Applications
   - SQL Scripts:
   
-  - ERD Visio Documents:
+  - Entity Relationship Diagrams:
   
   - KYHBPA Web Application:
 
