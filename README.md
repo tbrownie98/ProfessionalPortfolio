@@ -5,7 +5,7 @@ Section I: Cover Letter & Resume
   - Description: This Cover Letter and Resume are directed to addressing the requirements and role essentials listed in the attached requisite from the employer, titled "TechConsultant_Requisite".
 
 Section II: Business & Systems Analysis
-  - Cases:
+  - Cases: The Case Analyses provided in this portfolio come from Case Studies done by Harvard Business School and were assigned to be completed for a University of Louisville: College of Business course. These cases are organized by giving a brief overview of the organization the case study was written on followed by an analysis of the problem that the organization was facing in regards to real life issues. After these are listed and described, ___________
 
 Section III: Database Design & Applications
   - SQL Scripts:
