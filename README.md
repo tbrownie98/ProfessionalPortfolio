@@ -18,12 +18,8 @@ Section III: Database Design & Applications
 Section IV: Web Development
   - KYHBPA Web Application: In the Web Development folder, there are two links that go to the Kentucky Horsemen's Benevolent and Protective Association's published website and the source code for that website. This project was developed and implemented by a group of six to seven students based upon requirements highlighted in the document titled "TLC_Iteration2_Deliverables_KYHBPA.pdf". Each group member was given a role and I was selected as the Project Manager where my responsibilities included managing tasks, communicating with the client, and tracking progress for impending deadlines in addition to developing the application. The course assignment was a competition between five other groups to deliver a functional and visually appealing web application that achieves the requirements described by the client. Our group, Tech Lithe Creations, emerged as the winner and therefore, went forward in fully implementing and deploying this web application to the "production" environment.
 
-Section V: Programming Skills
+Section V: Skill Set Sheet
 
-Section VI: Internet Skills
-
-Section VII: Skill Set Sheet
-
-Section VIII: Personal & Professional References
+Section VI: Personal & Professional References
   - Tony Harper: Technology Director at Humana, Inc. in ____________
   - Lule Osmani: Technology Manager at Humana, Inc. in Information Technology: Solution Engineering
