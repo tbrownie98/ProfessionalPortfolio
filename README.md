@@ -23,5 +23,6 @@ Section IV: Web Development
 Section V: Skill Set Sheet
 
 Section VI: Personal & Professional References
+  - Karen Moore: Technology Director at Humana, Inc. of Data Analytics Architecture
   - Tony Harper: Technology Director at Humana, Inc. of Advanced Analytical Engineering
   - Lule Osmani: Technology Manager at Humana, Inc. in Information Technology: Solution Engineering
