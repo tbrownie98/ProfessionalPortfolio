@@ -4,7 +4,7 @@ This portfolio highlights the work I ahave completed and experiences in this pro
   - Currently, at work, I am a technology intern at Humana, Inc. in the area of Information Technology: Solution Engineering on a team that focuses on Center for Medicare and Medicaid Servers Audit and Compliance IT. Our team achieves consistent, high-quality compliance reports derived from business files which are refined through our aggregation, validation, and reporting processes.
 
 Section I: Cover Letter & Resume
-  - Description: This Cover Letter and Resume are directed to addressing the requirements and role essentials listed in the attached requisite from the employer, titled "TechConsultant_Requisite".
+  - This Cover Letter and Resume are directed to addressing the requirements and role essentials listed in the attached requisite from the employer, titled "TechConsultant_Requisite".
 
 Section II: Business & Systems Analysis
   - Cases: The Case Analyses provided in this portfolio come from Case Studies done by Harvard Business School and were assigned to be completed for a University of Louisville: College of Business course. These cases are organized by giving a brief overview of the organization the case study was written on followed by an analysis of the problem that the organization was facing in regards to real life issues. After these are listed and described, ___________
