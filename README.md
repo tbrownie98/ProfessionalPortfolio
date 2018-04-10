@@ -1,5 +1,7 @@
-# ProfessionalPortfolio
-Portfolio listing and describing skills and experiences related to Information Technology, Web Development, Business Analysis, and Database functions.
+# Professional Portfolio
+This portfolio highlights the work I ahave completed and experiences in this program.
+  - Currently, at school, I am a senior, graduating in May 2018, with a Bachelor's of Science in Business Administration in Computer Information Systems with a focus in Information Security at the University of Louisville: College of Business.
+  - Currently, at work, I am a technology intern at Humana, Inc. in the area of Information Technology: Solution Engineering on a team that focuses on Center for Medicare and Medicaid Servers Audit and Compliance IT. Our team achieves consistent, high-quality compliance reports derived from business files which are refined through our aggregation, validation, and reporting processes.
 
 Section I: Cover Letter & Resume
   - Description: This Cover Letter and Resume are directed to addressing the requirements and role essentials listed in the attached requisite from the employer, titled "TechConsultant_Requisite".
