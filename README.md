@@ -1,6 +1,6 @@
 # Professional Portfolio
-My name is William Tyler Brown and this is my portfolio which highlights the work and experiences that I have fulfilled in the Computer Information Systems program at University of Louisville: College of Business.
-  - Currently, at school, I am a senior, graduating in May 2018, with a Bachelor of Science in Business Administration in Computer Information Systems with a focus in Information Security at the University of Louisville: College of Business.
+My name is William Tyler Brown and this is my portfolio which highlights the work and experiences that I have fulfilled in the Computer Information Systems program at University of Louisville - College of Business.
+  - Currently, at school, I am a senior, graduating in May 2018, with a Bachelor of Science in Business Administration in Computer Information Systems with a focus in Information Security at the University of Louisville - College of Business.
   - Currently, at work, I am a Technology Intern at Humana, Inc. in Information Technology: Solution Engineering on a team classified as Center for Medicare and Medicaid Services Audit and Compliance IT. Our team achieves consistent, high-quality compliance reports derived from business files which are refined through our aggregation, validation, and reporting processes utilizing a combination of PL/SQL, Informatica, and .NET Framework. My core responsibilities are to support .NET development related to our Automated Universe Generation application in addition to assisting planning and implementation of new technologies.
 
 Section I: Cover Letter & Resume
